@@ -1,8 +1,10 @@
 # 6주차 실습정리
 
 ## 사용한 에셋
-- 이미지: (파일명, 출처)
-- 사운드: (파일명, 출처)
+- 이미지:<img width="180" height="348" alt="walk" src="https://github.com/user-attachments/assets/a3c48092-0bf0-41d1-abbf-f0f39a1cc854" />  출처:itch.io
+- 사운드: sci-fi sounds 출처 kenney.nl
+
+
 
 
 
