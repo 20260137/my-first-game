@@ -7,7 +7,7 @@
 - `--add-data` 옵션으로 에셋 포함
 - `.exe` 실행 확인
 
----
+
 
 # 2. 빌드 명령어
 
@@ -35,7 +35,7 @@ pyinstaller --onefile --windowed game.py
 pyinstaller --onefile --windowed --add-data "assets;assets" --name=MyGame game.py
 ```
 
----
+
 
 # 3. AI 활용 내역
 
@@ -53,7 +53,7 @@ pyinstaller --onefile --windowed --add-data "assets;assets" --name=MyGame game.p
 pyinstaller --onefile --windowed --add-data "*.png;." --add-data "*.ogg;." --name=MyGame game.py
 ```
 
----
+
 
 # 4. resource_path() 를 사용하는 이유
 
